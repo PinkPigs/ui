@@ -1,0 +1,28 @@
+.navbar {
+  /* background-color: #1eeac8; */
+  border-bottom: 2px solid #7dc1b6;
+  text-align: cente;
+}
+
+.index-form {
+  margin-top: 100px;
+  max-width: 350px;
+}
+
+.form-check-label {
+  margin-bottom: 5px;
+}
+
+#submit-button {
+  float: right;
+}
+
+.btn-primary {
+  color: #007bff;
+  background-color: #fff;
+  border-color: #fff;
+}
+
+.container-fluid {
+  margin-top: 50px;
+}
