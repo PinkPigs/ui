@@ -1,0 +1,39 @@
+html {
+ 	height: 100%;
+}
+
+nav {
+	border-bottom: 1px solid #dbdbdb;
+	text-align: center;
+}
+
+.navbar-brand {
+	text-align: center;
+}
+
+.form-check-label {
+	font-size: 14px;
+}
+
+.framed {
+  border: 1px solid #dbdbdb;
+  padding: 20px;
+}
+
+.center {
+	margin: 10% auto;
+	width: 80%;
+	vertical-align: middle;
+	display: flex;
+ 	flex-direction: column;
+ 	justify-content: center;
+ 	align-items: center;
+}
+
+.copyright {
+	text-align: center;
+	width: 100%;
+	color: #bdbdbd;
+	font-size: 12px;
+}
+
